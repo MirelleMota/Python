@@ -1,4 +1,4 @@
-def calculate():
+def calculate(): # Def para declçarar e definir uma função
     operation = input('''
 Digite qual operação deseja realizar:
 + para adicão
